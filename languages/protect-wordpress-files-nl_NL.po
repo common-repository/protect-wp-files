@@ -1,0 +1,346 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Protect WordPress Files\n"
+"POT-Creation-Date: 2020-05-17 00:37+0200\n"
+"PO-Revision-Date: 2020-05-17 00:38+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: pwpf.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/admin-templates/settings.php:20 includes/pwpf-hooks.php:583
+msgid "You need to be loggedin to access this file."
+msgstr "Je moet ingelogd zijn om het bestand te kunnen downloaden."
+
+#: includes/admin-templates/settings.php:21
+msgid "General"
+msgstr "Algemeen"
+
+#: includes/admin-templates/settings.php:57
+#: includes/admin-templates/settings.php:60
+msgid "Access denied message"
+msgstr "Toegang geweigerd bericht"
+
+#: includes/admin-templates/settings.php:66
+msgid "Save"
+msgstr "Opslaan"
+
+#: includes/admin-templates/support.php:41
+#, php-format
+msgid "Hi %s, we are here to help!"
+msgstr "Hoi %s, we zijn hier om te helpen!"
+
+#: includes/admin-templates/support.php:49
+msgid ""
+"We know how it feels if, you download a WordPress plugin and, something does "
+"not work well as expected."
+msgstr ""
+"We weten hoe het voelt als je een WordPress-plugin downloadt en iets werkt "
+"niet goed zoals verwacht."
+
+#: includes/admin-templates/support.php:52
+msgid "Do you need support or you have some awesome ideas let us know?"
+msgstr ""
+"Heb je ondersteuning nodig of heb je een aantal geweldige ideeën laat het "
+"ons weten?"
+
+#: includes/admin-templates/support.php:55
+msgid "We try to come back to you in 48 hours."
+msgstr "We proberen binnen 48 uur bij je terug te komen."
+
+#: includes/admin-templates/support.php:60
+msgid "Send support ticket"
+msgstr "Ondersteuningsticket verzenden"
+
+#: includes/admin-templates/upload.php:33 includes/pwpf-hooks.php:720
+msgid "Upload file(s)"
+msgstr "Upload nieuw bestand"
+
+#: includes/admin-templates/upload.php:42
+msgid "Choose a file&hellip;"
+msgstr "Kies een bestand&hellip;"
+
+#: includes/admin-templates/upload.php:47
+msgid "Submit"
+msgstr "Uploaden"
+
+#: includes/admin-templates/upload.php:57
+msgid "The file is uploading"
+msgstr "Het bestand wordt geüpload"
+
+#: includes/admin-templates/upload.php:61
+msgid "Copy"
+msgstr "Kopiëren"
+
+#: includes/admin-templates/upload.php:64
+msgid "The url has been copied to your clipboard!"
+msgstr "De URL is naar het Klembord gekopieerd!"
+
+#: includes/admin-templates/upload.php:67
+msgid "Upload new file"
+msgstr "Upload nieuw bestand"
+
+#: includes/admin-templates/upload.php:73
+#, php-format
+msgid ""
+"After upload you can find the files <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr ""
+"Na het uploaden kan je de files bekijken door <a href=“%s” "
+"target=“_blank”>hier</a> te klikken."
+
+#: includes/admin-templates/wizard.php:33
+msgid "Close the introduction"
+msgstr "Sluit de inleiding"
+
+#. Plugin Name of the plugin/theme
+#: includes/admin-templates/wizard.php:45 includes/pwpf-hooks.php:623
+#: includes/pwpf-hooks.php:624
+msgid "Protect WordPress Uploads"
+msgstr "Beveilig WordPress Uploads"
+
+#: includes/admin-templates/wizard.php:53
+#, php-format
+msgid "Hi %s! Thank you for downloading our plugin."
+msgstr "Hoi %s! Bedankt voor het downloaden van onze plugin."
+
+#: includes/admin-templates/wizard.php:57
+msgid ""
+"Did you know? Any file uploaded to your WordPress website is not protected."
+msgstr ""
+"Wist je dit al? Elk bestand dat je upload naar je WordPress website is niet "
+"beschermd."
+
+#: includes/admin-templates/wizard.php:60
+msgid ""
+"With Protect WordPress Uploads you can upload files safely and share files "
+"with other registered users on your website and community."
+msgstr ""
+"Met Beveilig WordPress Uploads houdt je je bestanden veilig en kan je "
+"bestanden veilig delen met andere geregistreerde gebruikers op je website."
+
+#: includes/admin-templates/wizard.php:63
+msgid ""
+"Seamlessly integrated, you can easily protect your WordPress Uploads by just "
+"one single click. Once protected, files cannot be accessed directly through "
+"their original, unprotected links (URLs) and unwanted users will be "
+"redirected."
+msgstr ""
+"Naadloos geïntegreerd. Je kan eenvoudig je WordPress Uploads beveiligen met "
+"slechts één enkele klik. Eenmaal beveiligd, kunnen bestanden niet "
+"rechtstreeks worden geopend via hun oorspronkelijke, onbeveiligde links "
+"(Url's) en ongewenste gebruikers zullen worden omgeleid."
+
+#: includes/admin-templates/wizard.php:70
+msgid "Get started"
+msgstr "Aan de slag"
+
+#: includes/admin-templates/wizard.php:71
+msgid "Get Started"
+msgstr "Aan de slag"
+
+#: includes/admin-templates/wizard.php:74
+#: includes/admin-templates/wizard.php:75
+msgid "Need support?"
+msgstr "Hulp nodig?"
+
+#: includes/admin-templates/wizard.php:90 includes/pwpf-hooks.php:705
+msgid "Upload"
+msgstr "Upload"
+
+#: includes/admin-templates/wizard.php:91
+msgid "Upload, protect and unprotect WordPress uploads."
+msgstr "Upload & bescherm WordPress Uploads."
+
+#: includes/admin-templates/wizard.php:95
+msgid "Protected link"
+msgstr "Beveiligde link"
+
+#: includes/admin-templates/wizard.php:96
+msgid "Copy the protected link anywhere on your WordPress website."
+msgstr "Kopieer de beveiligde link overal op je WordPress website."
+
+#: includes/admin-templates/wizard.php:100
+msgid "Filter"
+msgstr "Filteren"
+
+#: includes/admin-templates/wizard.php:101
+msgid "Go to the Media Library and filter by protected WordPress uploads."
+msgstr ""
+"Ga naar de mediabibliotheek en filter door beveiligde WordPress Uploads."
+
+#: includes/admin-templates/wizard.php:105
+msgid "Logged-in users"
+msgstr "Ingelogde gebruikers"
+
+#: includes/admin-templates/wizard.php:106
+msgid "Protected uploads are only available for logged-in users."
+msgstr "Beveiligde uploads zijn alleen beschikbaar voor ingelogde gebruikers."
+
+#: includes/pwpf-activator.php:41
+msgid ""
+"We where unable to create a \"private\" folder in your wp-uploads/ folder. "
+"Create it manually or make sure your wp-uploads/ folder has 0777 directory "
+"rights."
+msgstr ""
+"We konden geen “private” folder voor je aanmaken in de wp-uploads/ folder. "
+"Maak de folder handmatig aan of zorg ervoor dat de wp-uploads/ folder "
+"schrijfrechten heeft."
+
+#: includes/pwpf-activator.php:68
+msgid ""
+"We where unable to create a \".htaccess\" file in the wp-uploads/private/ "
+"folder. Create it manually or make sure your wp-uploads/private/ folder has "
+"0777 directory rights."
+msgstr ""
+"We konden geen “.htaccess” bestand voor je aanmaken in de wp-uploads/"
+"private/ folder. Maak het bestand handmatig aan of zorg ervoor dat de wp-"
+"uploads/private/ folder schrijfrechten heeft."
+
+#: includes/pwpf-hooks.php:34 includes/pwpf-hooks.php:35
+msgid "Protect uploads"
+msgstr "Beveilig uploads"
+
+#: includes/pwpf-hooks.php:44 includes/pwpf-hooks.php:45
+#: includes/pwpf-hooks.php:706
+msgid "Settings"
+msgstr "Instellingen"
+
+#: includes/pwpf-hooks.php:52 includes/pwpf-hooks.php:53
+#: includes/pwpf-hooks.php:704
+msgid "Introduction"
+msgstr "Even voorstellen"
+
+#: includes/pwpf-hooks.php:60 includes/pwpf-hooks.php:61
+#: includes/pwpf-hooks.php:707
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: includes/pwpf-hooks.php:146
+msgid "The file is uploaded."
+msgstr "Het bestand is geupload."
+
+#: includes/pwpf-hooks.php:151
+msgid "This type of file is not allowed by WordPress to upload."
+msgstr "Dit type bestand is niet toegestaan door WordPress om te uploaden."
+
+#: includes/pwpf-hooks.php:153
+msgid "The file is not uploaded for some reason"
+msgstr "Het bestand is door een of andere reden niet geupload."
+
+#: includes/pwpf-hooks.php:158
+msgid "Oops you tried something insecure!"
+msgstr "Oeps je probeerde iets wat niet mag!"
+
+#: includes/pwpf-hooks.php:286
+msgid "View"
+msgstr "Bekijken"
+
+#: includes/pwpf-hooks.php:287
+msgid "Unprotect"
+msgstr "Beveiliging opheffen"
+
+#: includes/pwpf-hooks.php:291
+msgid "Protect"
+msgstr "Beveiligen"
+
+#: includes/pwpf-hooks.php:301
+msgid "URL"
+msgstr "URL"
+
+#: includes/pwpf-hooks.php:331
+msgid ""
+"<span style=\"color: red; border: 1px solid red; font-size: 9px; text-"
+"transform: uppercase;\">Protected</span>"
+msgstr ""
+"<span style=“color: red; border: 1px solid red; font-size: 9px; text-"
+"transform: uppercase;”>Beveiligd</span>"
+
+#: includes/pwpf-hooks.php:354 includes/pwpf-hooks.php:358
+#: includes/pwpf-hooks.php:411 includes/pwpf-hooks.php:415
+msgid "You are not allowed to do this action."
+msgstr "Je kan deze actie niet doen."
+
+#: includes/pwpf-hooks.php:384
+msgid "This file is already protected."
+msgstr "Het bestand is al beveiligd."
+
+#: includes/pwpf-hooks.php:499 includes/pwpf-hooks.php:736
+#: includes/pwpf-hooks.php:756
+msgid "Protected"
+msgstr "Beveiligd"
+
+#: includes/pwpf-hooks.php:564
+msgid "The file does not exists."
+msgstr "Het bestand bestaat niet."
+
+#: includes/pwpf-hooks.php:684
+msgid ""
+"Protect WordPress Uploads! You are using NGINX please update your nginx "
+"config file. A rewrite example is available in the plugins \"_rewrites/\" "
+"folder."
+msgstr ""
+"Beveilig WordPress Uploads! Je gebruikt NGINX. Update je nginx config file "
+"and voeg een stukje rewrite code toe. Een voorbeeld is beschikbaar in de "
+"plugins “_rewrites” folder."
+
+#: includes/pwpf-hooks.php:733
+msgid "Filter by protected uploads"
+msgstr "Filteren op beveiligde uploads"
+
+#: includes/pwpf-hooks.php:735 includes/pwpf-hooks.php:761
+msgid "All files (protected/unprotected)"
+msgstr "Alle bestanden (beveiligd/onbeschermd)"
+
+#: includes/pwpf-hooks.php:737 includes/pwpf-hooks.php:757
+msgid "Unprotected"
+msgstr "Onbeschermd"
+
+#: includes/pwpf-hooks.php:921
+msgid "Protected URL"
+msgstr "Beveiligde URL"
+
+#. Plugin URI of the plugin/theme
+msgid "csorbamedia.com"
+msgstr "csorbamedia.com"
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin makes it possible to upload and protect WordPress uploads and "
+"keep them safe for non-registered users."
+msgstr ""
+"De plugin maakt het mogelijk om uploads te beveiligen. Niet ingelogde "
+"gebruikers kunnen de bestanden niet downloaden wanneer ze beveiligd zijn."
+
+#. Author of the plugin/theme
+msgid "Stephan Csorba"
+msgstr "Stephan Csorba"
+
+#. Author URI of the plugin/theme
+msgid "https://www.linkedin.com/in/skcsorba/"
+msgstr "https://www.linkedin.com/in/skcsorba/"
+
+#~ msgid "Protect WordPress Files"
+#~ msgstr "Beveilig WordPress bestanden"
+
+#, php-format
+#~ msgid "%s &rsaquo; Welcome"
+#~ msgstr "%s &rsaquo; Welkom"
+
+#~ msgid "View how it works"
+#~ msgstr "Bekijk hoe het werkt"
+
+#~ msgid "See How It Works"
+#~ msgstr "Zie hoe het werkt"
